@@ -1,0 +1,20 @@
+# Dependencias y archivos generados
+node_modules/
+dist/
+build/
+.next/
+coverage/
+
+# Variables de entorno locales
+.env
+.env.*
+!.env.example
+
+# Registros y archivos temporales
+*.log
+*.tmp
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
