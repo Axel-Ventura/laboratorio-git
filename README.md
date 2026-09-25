@@ -4,7 +4,7 @@ Proyecto de una aplicación web destinada a facilitar la captura, consulta y adm
 
 ## Propósito
 
-Sustituir el registro en papel por una solución digital que conserve la organización del formato que utiliza la empresa. Se busca que varios colaboradores puedan registrar y consultar información durante una misma jornada de trabajo.
+Sustituir el registro en papel por una solución digital que conserve la organización del formato que utiliza la empresa. La plataforma busca centralizar la información para que varios colaboradores puedan registrarla, consultarla y actualizarla durante una misma jornada, reduciendo errores y facilitando el seguimiento de las operaciones.
 
 ## Funciones previstas
 
@@ -18,4 +18,9 @@ Sustituir el registro en papel por una solución digital que conserve la organiz
 
 ## Situación del proyecto
 
-Este repositorio contiene la descripción inicial y el alcance propuesto del sistema. Las funciones enumeradas representan lo que se busca desarrollar; su implementación todavía no está incluida.
+El proyecto se encuentra en su etapa inicial. Este repositorio contiene la descripción del problema, el objetivo y el alcance propuesto del sistema. Las funciones enumeradas representan lo que se busca desarrollar; su implementación todavía no está incluida.
+
+## Colaboradores
+
+- Gil Ginez Francisco Xavier
+- Oscar Flores Cerqueda
