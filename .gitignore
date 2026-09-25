@@ -1,0 +1,17 @@
+# Configuración local de editores
+.vscode/
+.idea/
+
+# Variables de entorno y archivos sensibles
+.env
+.env.*
+
+# Registros y archivos temporales
+*.log
+*.tmp
+*.temp
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
