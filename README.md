@@ -1,26 +1,30 @@
-# Plataforma Web para el Control de Envíos de Tehuacán
+# Sistema web para la gestión de envíos
 
-Proyecto de una aplicación web destinada a facilitar la captura, consulta y administración de los envíos de la empresa Tehuacán mediante herramientas digitales.
+Propuesta de una plataforma para digitalizar el registro y seguimiento de los
+envíos de una empresa de Tehuacán. El sistema busca sustituir los formatos en
+papel por una herramienta accesible, organizada y fácil de utilizar.
 
-## Propósito
+## Objetivo
 
-Sustituir el registro en papel por una solución digital que conserve la organización del formato que utiliza la empresa. La plataforma busca centralizar la información para que varios colaboradores puedan registrarla, consultarla y actualizarla durante una misma jornada, reduciendo errores y facilitando el seguimiento de las operaciones.
+Centralizar la información de los envíos para que el personal pueda capturarla,
+consultarla y actualizarla durante cada jornada de trabajo, reduciendo errores
+y facilitando el seguimiento de las operaciones.
 
-## Funciones previstas
+## Funcionalidades propuestas
 
-- Captura, consulta y actualización de los datos de cada envío.
-- Catálogo de clientes para mantener su información organizada.
-- Acceso simultáneo para los empleados que comparten una jornada.
-- Operación sin conexión a Internet para continuar con el registro de información.
-- Sincronización de los datos cuando se restablezca la conexión.
-- Elaboración e impresión de los formatos de envío.
-- Organización y seguimiento de las jornadas laborales.
+- Registrar, consultar y actualizar envíos.
+- Administrar la información de los clientes.
+- Permitir la colaboración de varios empleados.
+- Continuar trabajando temporalmente sin conexión a Internet.
+- Sincronizar la información al recuperar la conexión.
+- Generar e imprimir los formatos de envío.
+- Organizar las actividades por jornada laboral.
 
-## Situación del proyecto
+## Estado del proyecto
 
-El proyecto se encuentra en su etapa inicial. Este repositorio contiene la descripción del problema, el objetivo y el alcance propuesto del sistema. Las funciones enumeradas representan lo que se busca desarrollar; su implementación todavía no está incluida.
+El proyecto se encuentra en su etapa inicial. Este repositorio contiene la
+descripción del problema, el objetivo y las funciones que se planean desarrollar.
 
-## Colaboradores
+## Autor
 
-- Gil Ginez Francisco Xavier
-- Oscar Flores Cerqueda
+Gil Ginez Francisco Xavier
