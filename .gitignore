@@ -1,17 +1,25 @@
+# Dependencias y archivos generados
+node_modules/
+dist/
+build/
+.next/
+coverage/
+
 # Configuración local de editores
 .vscode/
 .idea/
 
-# Variables de entorno y archivos sensibles
+# Variables de entorno locales
 .env
 .env.*
+!.env.example
 
 # Registros y archivos temporales
 *.log
 *.tmp
 *.temp
 
-# Archivos generados por el sistema operativo
+# Archivos del sistema operativo
 .DS_Store
 Thumbs.db
 Desktop.ini
